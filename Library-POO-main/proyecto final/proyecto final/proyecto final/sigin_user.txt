@@ -1,0 +1,7 @@
+Name of the book Lord of the rings
+The location is Library52
+hola prueba
+Name of the book Harry Potter
+ID code is 74
+The location is lIBRARY 56
+Stocks 3
