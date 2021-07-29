@@ -1,8 +1,0 @@
-Name of the book Lord of the rings
-ID code is 458
-The location is Library52
-Stocks 4
-Name of the book Harry Potter
-ID code is 74
-The location is lIBRARY 56
-Stocks 3
