@@ -1,7 +1,3 @@
-Name of the book Lord of the rings
-The location is Library52
-2
-Name of the book Harry Potter
-ID code is 74
-The location is lIBRARY 56
-2
+Name of the book Lord of the rings|The location is Library52|1|
+Name of the book Lord of the lords|The location is Library52|5|
+Harry Potter|The location is Library52|665|
