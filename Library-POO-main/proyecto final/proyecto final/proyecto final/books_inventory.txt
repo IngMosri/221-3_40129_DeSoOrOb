@@ -1,3 +1,0 @@
-Name of the book Lord of the rings|The location is Library52|1|
-Name of the book Lord of the lords|The location is Library52|5|
-Harry Potter|The location is Library52|665|
